@@ -1,4 +1,7 @@
 title: Libido Slave
-header_pages:
+theme: minima
+minima:
+  skin: dark
+  nav_pages:
   - links/index.md
   - links/dommes.md
