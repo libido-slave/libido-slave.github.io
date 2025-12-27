@@ -6,6 +6,11 @@ author:
 theme: minima
 minima:
   skin: dark
+  nav_pages:
+  - links/index.md
+  - links/dommes.md
+  - links/readit.md
+  - links/others.md
   social_links:
     - title: libido_slave at X (formerly Twitter)
       icon: x-twitter
