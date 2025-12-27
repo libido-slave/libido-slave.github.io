@@ -1,7 +1,12 @@
-title: Libido Slave
+title: Red
+description: Kink enthusiast
+author:
+  name: libido-slave
+  email: libido.slave@gmail.com
 theme: minima
 minima:
   skin: dark
-  nav_pages:
-  - links/index.md
-  - links/dommes.md
+  social_links:
+    - title: libido_slave at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/libido_slave"

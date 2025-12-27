@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Links - Others
+title: Dommes
 ---
 
 ### Celebs and Dommes
@@ -23,6 +23,8 @@ title: Links - Others
 - <a href="https://www.loveandobey.com/true-flr-stories">True Cuckolding Stories | Love and Obey</a>
 - <a href="https://www.professionalmistresses.co.uk/">Professional Mistresses - UK Mistress Guide</a>
 - <a href="https://gynarchic.com/courses/">Courses - Gynarchic Academy</a>
+- <a href="https://worshipglittergoddess.com/my-account/">My account - Glitter Goddess</a>
+- <a href="http://scarlettlush.com/">Obey Scarlett Lush * A sensual Femdom and Dominatrix in Washington DC and DMV area.</a>
 
 ### Twtr
 - <a href="https://twitter.com/KittenIndian">🔞Indian Kitten - 25% - OFF🔞 (@KittenIndian) / Twitter</a>
