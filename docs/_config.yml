@@ -1,15 +1,5 @@
 title: Red
-description: Kink enthusiast
-theme: minima
-minima:
-  skin: dark
-  nav_pages:
-  - index.md
-  - links/index.md
-  - links/dommes.md
-  - links/readit.md
-  - links/others.md
-  social_links:
-    - title: libido_slave at X (formerly Twitter)
-      icon: x-twitter
-      url: "https://x.com/libido_slave"
+tagline: Kink enthusiast
+description: 
+theme: jekyll-theme-midnight
+show_downloads: true
