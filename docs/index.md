@@ -1,11 +1,6 @@
 ---
-layout: base
-title: Home
----
-
----
 layout: default
-title: Bookmarks - Learn and Edu
+title: Home
 ---
 
 ### About Me
